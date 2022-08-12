@@ -1,6 +1,14 @@
-# flutter_form
+# Firebase Cloud Messaging with Flutter
 
 A new Flutter project.
+
+### 🛠 Technologies
+
+This project was developed with the following technologies:
+
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
+- [Firebase](https://firebase.google.com/)
 
 ## Getting Started
 
